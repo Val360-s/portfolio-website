@@ -1,26 +1,18 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'valentina.boch.dev@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/Val360-s',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/circus_teddy_bear/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/valentina-bocharnikova-3782b42a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB9l96A3CRLar3ANUdfTIwA%3D%3D',
     },
   ],
 
@@ -30,7 +22,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Technical Skills',
       url: '/#jobs',
     },
     {
