@@ -2,7 +2,7 @@
 date: '2026-01-27'
 title: 'PHP Form Example'
 github: ''
-external: ''
+external: 'http://php-form-example.page.gd/'
 tech:
   - SQL
   - MySQL
