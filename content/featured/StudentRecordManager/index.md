@@ -2,7 +2,7 @@
 date: '3'
 title: 'Students Records Manager'
 cover: './main-page.png'
-external: ''
+external: 'http://student-record-manager.page.gd/index.php'
 cta: ''
 tech:
   - PHP
