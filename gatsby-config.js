@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Valentina Bocharnikova is a web developer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://portfolio-website-lemon-six-57.vercel.app', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/preview.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
   plugins: [
