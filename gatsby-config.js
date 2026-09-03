@@ -7,6 +7,7 @@ module.exports = {
       'Valentina Bocharnikova is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://portfolio-website-lemon-six-57.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
